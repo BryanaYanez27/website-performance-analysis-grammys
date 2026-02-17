@@ -26,7 +26,7 @@ Conducted an A/B test to evaluate differences in engagement
 
 Interpreted results and made a business recommendation
 
-# Key Result
+## Key Result
 
 The split website version showed a higher CTA click rate, indicating improved user engagement compared to the original site.
 
